@@ -1,0 +1,1 @@
+usage perl MiSeqFlashV2.pl new 7 xxx.fastq.gz
